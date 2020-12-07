@@ -37,3 +37,6 @@ The two primary data structures of pandas, Series (1-dimensional) and DataFrame 
 - Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving / loading data from the ultrafast HDF5 format
 
 - Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging.
+
+# References 
+https://pandas.pydata.org/docs/getting_started/overview.html
