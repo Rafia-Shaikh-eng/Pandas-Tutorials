@@ -38,5 +38,8 @@ The two primary data structures of pandas, Series (1-dimensional) and DataFrame 
 
 - Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging.
 
+# Video Lectures
+https://www.youtube.com/playlist?list=PLm9DiRumsuAgjx4j1tqjb6niW4DGYpDRI
+
 # References 
 https://pandas.pydata.org/docs/
